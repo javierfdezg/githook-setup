@@ -11,3 +11,6 @@ Tool to setup and maintain git webhooks with a dotfile-style symlink system.
 1. `cd /your/project/root`
 2. Download and place in your project root
 3. `bash githook-setup/setup.sh`
+
+### To Do
+* Make this work with submodules (shortly)
